@@ -1,0 +1,170 @@
+.header-bg img {
+    height: 850px;
+    width: 100%;
+}
+.main-header{
+    border: 1px solid black;
+    position: absolute;
+    top: 2%;
+    width: 30%;
+    height: 65%;
+    margin-left: 35%;
+}
+.header-text img{
+    margin-left: 25%;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: serif;
+    width: 50%;
+    height: 65px;
+    position: absolute;
+    top: 7%;
+}
+input {
+    width: 60%;
+}
+
+.username input {
+    position: absolute;
+    top: 30%;
+    margin-left: 20%;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    background-color: white;
+}
+.password input {
+    position: absolute;
+    top: 44%;
+    margin-left: 20%;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.login-btn button {
+    position: absolute;
+    top: 58%;
+    margin-left: 20%;
+    background-color: rgba(21, 75, 237, 0.975);
+    color: white;
+}
+
+button {
+    width: 66%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.partision p {
+    position: absolute;
+    top: 65%;
+    margin-left: 20%;
+}
+
+.middle-text p {
+    position: absolute;
+    top: 66%;
+    margin-left: 50.3%;
+    color: rgb(59, 55, 55);
+}
+
+.partision-2 p {
+    position: absolute;
+    top: 65%;
+    margin-left: 57%;
+}
+.face img {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 80%;
+    margin-left: 30%;
+}
+
+.face-text p {
+    position: absolute;
+    top: 78%;
+    margin-left: 40%;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 255);
+}
+
+p:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.forget label {
+    position: absolute;
+    top: 90%;
+    margin-left: 40%;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(47, 44, 44);
+}
+.second{
+    border: 1px solid black;
+    width: 30%;
+    position: absolute;
+    top: 70%;
+    margin-left: 35%;
+}
+.sing p{
+    margin-left: 20%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sing-up p{
+    position: absolute;
+    top: 0%;
+    margin-left: 55%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apps label{
+    position: absolute;
+    top: 80%;
+    margin-left: 46%;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.google img{
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    top: 85%;
+    margin-left: 40%;
+    border-radius: 10px;
+}
+.microsoft img{
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    position: absolute;
+    top: 85%;
+    margin-left: 50%;
+}
+.list{
+    position: absolute;
+    top: 98%;
+    margin-left: 260px;
+}
+.list label{
+    margin-left: 20px;
+    color: rgb(40, 38, 38);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.last-area label{
+    position: absolute;
+    top: 105%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 43%;
+    color: rgb(40, 38, 38);
+}
